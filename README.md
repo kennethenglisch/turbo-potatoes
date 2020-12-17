@@ -87,7 +87,7 @@ Version: 4.26
 ### Git Workflow
 
 ***Feature-Branch-Workflow***  
-1. Before starting your work on a new feature, always pull the newest version of [main](https://github.com/nimaazha/OculusQuestFitnessApp/tree/main) branch.  
+1. Before starting your work on a new feature, always pull the newest version of [main](https://github.com/Silices/turbo-potatoes/tree/main) branch.  
 2. Create a new branch from main and give it a descriptive Name 
     * You can use your trello card id and name for this, which can be found in the card url (for example 12-decide-on-a-git-workflow)
 3. You can now work on your feature, commit and push changes inside of your Feature Branch. Make sure to always choose **descriptive** commit messages.
@@ -109,7 +109,6 @@ This is a list of things you can look out for while doing code review:
 
 Always create your own scene if you want to test changes, the MainScene should be in a functioning state at all times.  
 If you do make changes to a Scene you want to share, make sure to save your changes in unity before pushing to git.  
-If you want to share Scene Elements with your team, create [Prefabs](https://docs.unity3d.com/Manual/Prefabs.html) and make sure they are placed properly.  
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -130,7 +129,7 @@ _Add installation steps if required_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/kennethenglisch/cautious-potatos/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Silices/turbo-potatoes/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
