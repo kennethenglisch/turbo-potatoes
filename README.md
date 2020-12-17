@@ -84,6 +84,7 @@
 
 * [Unreal Engine](https://www.unrealengine.com/)
 Version: 4.26
+Template: First Person
 
 <!-- DEV GUIDELINES -->
 ## Development Guidelines
