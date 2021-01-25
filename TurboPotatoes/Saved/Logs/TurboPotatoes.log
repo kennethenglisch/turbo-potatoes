@@ -1477,3 +1477,46 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.25-14.04.23:332][197]LogSavePackage: Moving '../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Map157AD98B64EDF8179D1FC1DAF394FFE2C.tmp' to '../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Content/FirstPersonBP/Maps/Map1.umap'
 [2021.01.25-14.04.23:367][197]AssetCheck: New page: Asset Save: Map1
 [2021.01.25-14.04.23:367][197]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Map1.Map1
+[2021.01.25-14.06.02:857][813]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.25-14.06.12:027][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (0_frame_door1_0)
+[2021.01.25-14.06.17:808][473]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (0_frame_door1_0)
+[2021.01.25-14.06.17:815][473]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.25-14.06.18:912][595]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.25-14.06.18:923][595]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/door/Room_Door_Animation/0_frame_door1_0.0_frame_door1_0
+[2021.01.25-14.06.18:970][595]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.25-14.06.21:286][786]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.25-14.06.23:561][994]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.25-14.06.23:589][994]LogSavePackage: Moving '../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/0_frame_door1_02997BF174482C8C058EF5B99D52A6B8C.tmp' to '../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Content/Models/door/Room_Door_Animation/0_frame_door1_0.uasset'
+[2021.01.25-14.06.23:599][994]AssetCheck: New page: Asset Save: 0_frame_door1_0
+[2021.01.25-14.06.23:599][994]LogContentValidation: Display: Validating StaticMesh /Game/Models/door/Room_Door_Animation/0_frame_door1_0.0_frame_door1_0
+[2021.01.25-14.06.24:756][104]LogSlate: Window '0_frame_door1_0' being destroyed
+[2021.01.25-14.06.24:762][104]LogSlate: Window '0_frame_door1_0' being destroyed
+[2021.01.25-14.06.24:769][104]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.01.25-14.06.24:769][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.25-14.06.25:572][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_door_door1_0)
+[2021.01.25-14.06.26:481][290]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (1_door_door1_0)
+[2021.01.25-14.06.26:487][290]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.25-14.06.27:547][400]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.25-14.06.27:557][400]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/door/Room_Door_Animation/1_door_door1_0.1_door_door1_0
+[2021.01.25-14.06.27:605][400]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.25-14.06.29:392][541]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.25-14.06.31:975][784]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.25-14.06.32:004][784]LogSavePackage: Moving '../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/1_door_door1_05F26D4C34AC18927FDC768B488CA0B06.tmp' to '../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Content/Models/door/Room_Door_Animation/1_door_door1_0.uasset'
+[2021.01.25-14.06.32:034][784]AssetCheck: New page: Asset Save: 1_door_door1_0
+[2021.01.25-14.06.32:034][784]LogContentValidation: Display: Validating StaticMesh /Game/Models/door/Room_Door_Animation/1_door_door1_0.1_door_door1_0
+[2021.01.25-14.06.32:856][863]LogSlate: Window '1_door_door1_0' being destroyed
+[2021.01.25-14.06.32:861][863]LogSlate: Window '1_door_door1_0' being destroyed
+[2021.01.25-14.06.32:865][863]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.01.25-14.06.32:865][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.25-14.06.34:516][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_door_door1_0)
+[2021.01.25-14.06.35:436][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (0_frame_door1_0)
+[2021.01.25-14.06.36:764][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2_handle_door1_0)
+[2021.01.25-14.06.41:173][833]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.25-14.06.41:811][905]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.25-14.06.41:826][905]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/door/Room_Door_Animation/2_handle_door1_0.2_handle_door1_0
+[2021.01.25-14.06.41:873][905]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.25-14.06.43:707][ 42]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.25-14.06.45:439][201]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.25-14.06.45:474][201]LogSavePackage: Moving '../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/2_handle_door1_0AC81E1D74139798D268DE4B52248A734.tmp' to '../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Content/Models/door/Room_Door_Animation/2_handle_door1_0.uasset'
+[2021.01.25-14.06.45:484][201]AssetCheck: New page: Asset Save: 2_handle_door1_0
+[2021.01.25-14.06.45:484][201]LogContentValidation: Display: Validating StaticMesh /Game/Models/door/Room_Door_Animation/2_handle_door1_0.2_handle_door1_0
