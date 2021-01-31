@@ -2,15 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.26",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "GLTFImporter",
-			"Enabled": true
-		},
-		{
-			"Name": "DatasmithGLTFImporter",
-			"Enabled": true
-		}
-	]
+	"Description": ""
 }
