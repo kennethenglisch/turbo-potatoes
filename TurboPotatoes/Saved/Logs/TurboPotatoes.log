@@ -1345,3 +1345,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.01-13.03.09:857][586]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
 [2021.02.01-13.03.10:881][586]LogSlate: Took 0.004794 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2021.02.01-13.03.11:210][587]LogSlate: Took 0.022542 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.01-13.04.06:832][312]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2021.02.01-13.04.06:833][312]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Map1' took 0.058
+[2021.02.01-13.04.06:919][312]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton] ([1] browsable assets)...
+[2021.02.01-13.04.06:919][312]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton]
+[2021.02.01-13.04.06:925][312]LogSavePackage: Moving 'E:/Uni/4. Semester/Game Engines/turbo-potatoes/TurboPotatoes/Saved/SK_Mannequin_Arms_Skeleton_Auto2943793F7495BEA7793F41397C5C660DC.tmp' to 'E:/Uni/4. Semester/Game Engines/turbo-potatoes/TurboPotatoes/Saved/Autosaves/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton_Auto2.uasset'
+[2021.02.01-13.04.06:925][312]LogFileHelpers: Auto-saving content packages took 0.092
