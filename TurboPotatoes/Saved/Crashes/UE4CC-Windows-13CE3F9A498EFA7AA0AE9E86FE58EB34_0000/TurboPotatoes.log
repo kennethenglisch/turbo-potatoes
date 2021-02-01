@@ -1,0 +1,1249 @@
+﻿Log file open, 01/31/21 19:27:54
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: TurboPotatoes
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.258808
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DataprepEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin OculusVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: S:/Unreal Engine/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Engine.ini]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Engine.ini]
+[2021.01.31-18.27.55:368][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Engine.ini]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Engine.ini]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.31-18.27.55:368][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.31-18.27.55:369][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.31-18.27.55:369][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.31-18.27.55:369][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.31-18.27.55:369][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.31-18.27.55:369][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.31-18.27.55:369][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.31-18.27.55:369][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.01.31-18.27.55:369][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Engine.ini]
+[2021.01.31-18.27.55:369][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Engine.ini]
+[2021.01.31-18.27.55:403][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.31-18.27.55:403][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.31-18.27.55:404][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.31-18.27.55:404][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.31-18.27.55:404][  0]LogHAL: Display: Platform has ~ 16 GB [17100386304 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.31-18.27.55:404][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.31-18.27.55:404][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.31-18.27.55:404][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Scalability.ini]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.31-18.27.55:405][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.31-18.27.55:420][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.31-18.27.55:420][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.31-18.27.55:420][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.31-18.27.55:420][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Config/Windows/Engine.ini]
+[2021.01.31-18.27.55:420][  0]LogInit: Computer: MASTER-PC
+[2021.01.31-18.27.55:420][  0]LogInit: User: bartholomaeus
+[2021.01.31-18.27.55:420][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.01.31-18.27.55:420][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.31-18.27.55:420][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.01.31-18.27.55:420][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.31-18.27.55:420][  0]LogMemory: Process Physical Memory: 136.79 MB used, 136.80 MB peak
+[2021.01.31-18.27.55:420][  0]LogMemory: Process Virtual Memory: 119.38 MB used, 119.38 MB peak
+[2021.01.31-18.27.55:420][  0]LogMemory: Physical Memory: 9893.88 MB used,  6414.32 MB free, 16308.20 MB total
+[2021.01.31-18.27.55:420][  0]LogMemory: Virtual Memory: 134209312.00 MB used,  8416.20 MB free, 134217728.00 MB total
+[2021.01.31-18.27.55:425][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.31-18.27.55:468][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.31-18.27.55:468][  0]LogInit: Using OS detected language (de-DE).
+[2021.01.31-18.27.55:468][  0]LogInit: Using OS detected locale (de-DE).
+[2021.01.31-18.27.55:470][  0]LogTextLocalizationManager: No specific localization for 'de-DE' exists, so the 'de' localization will be used.
+[2021.01.31-18.27.55:470][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/de/Editor.locres' could not be opened for reading!
+[2021.01.31-18.27.55:470][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/de/EditorTutorials.locres' could not be opened for reading!
+[2021.01.31-18.27.55:470][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/de/Keywords.locres' could not be opened for reading!
+[2021.01.31-18.27.55:470][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/de/Category.locres' could not be opened for reading!
+[2021.01.31-18.27.55:470][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/de/ToolTips.locres' could not be opened for reading!
+[2021.01.31-18.27.55:470][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/de/PropertyNames.locres' could not be opened for reading!
+[2021.01.31-18.27.55:470][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/de/Engine.locres' could not be opened for reading!
+[2021.01.31-18.27.55:477][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.31-18.27.55:510][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.31-18.27.55:510][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.31-18.27.55:629][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.31-18.27.55:629][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.31-18.27.55:629][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.31-18.27.55:629][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.31-18.27.55:710][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2021.01.31-18.27.55:710][  0]LogD3D11RHI:       8010/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2021.01.31-18.27.55:712][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.31-18.27.55:712][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.31-18.27.55:712][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.31-18.27.55:722][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.31-18.27.55:722][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.31-18.27.55:722][  0]LogWindows: EnumDisplayDevices:
+[2021.01.31-18.27.55:722][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2021.01.31-18.27.55:722][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2021.01.31-18.27.55:722][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2021.01.31-18.27.55:723][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2021.01.31-18.27.55:723][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.01.31-18.27.55:723][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2021.01.31-18.27.55:723][  0]LogD3D11RHI:   Driver Version: 461.40 (internal:27.21.14.6140, unified:461.40)
+[2021.01.31-18.27.55:723][  0]LogD3D11RHI:      Driver Date: 1-22-2021
+[2021.01.31-18.27.55:723][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2021.01.31-18.27.55:775][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.31-18.27.55:776][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.31-18.27.55:776][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.31-18.27.55:777][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2021.01.31-18.27.55:798][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.31-18.27.55:799][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.01.31-18.27.56:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.31-18.27.56:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.31-18.27.56:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.31-18.27.56:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.31-18.27.56:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.31-18.27.56:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.31-18.27.56:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.31-18.27.56:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.31-18.27.56:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.31-18.27.56:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.31-18.27.56:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.31-18.27.56:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.31-18.27.56:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.31-18.27.56:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.31-18.27.56:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.31-18.27.56:155][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.31-18.27.56:162][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.31-18.27.56:168][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.31-18.27.56:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.31-18.27.56:182][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.31-18.27.56:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.31-18.27.56:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.31-18.27.56:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.01.31-18.27.56:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.01.31-18.27.56:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.01.31-18.27.56:246][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.01.31-18.27.56:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.31-18.27.56:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.31-18.27.56:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.31-18.27.56:271][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.31-18.27.56:278][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.31-18.27.56:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.31-18.27.56:284][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.31-18.27.56:290][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.31-18.27.56:333][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.01.31-18.27.56:333][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Intermediate/Shaders/WorkingDirectory/18220/).
+[2021.01.31-18.27.56:333][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bar.tholomaeus/AppData/Local/Temp/UnrealShaderWorkingDir/AAB0136D4A5A4B371BB407970582B6AC/'.
+[2021.01.31-18.27.56:333][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.31-18.27.56:333][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.31-18.27.56:958][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.31-18.27.57:020][  0]LogDerivedDataCache: Loaded boot cache 0.06s 98MB C:/Users/bar.tholomaeus/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.31-18.27.57:021][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bar.tholomaeus/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.01.31-18.27.57:021][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.31-18.27.57:021][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.31-18.27.57:021][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.31-18.27.57:021][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.31-18.27.57:031][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.31-18.27.57:031][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.31-18.27.57:031][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.31-18.27.57:038][  0]LogDerivedDataCache: Speed tests for C:/Users/bar.tholomaeus/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.01.31-18.27.57:038][  0]LogDerivedDataCache: Display: Performance to C:/Users/bar.tholomaeus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1548.19MBs, RandomWriteSpeed=150.67MBs. Assigned SpeedClass 'Local'
+[2021.01.31-18.27.57:039][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bar.tholomaeus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.31-18.27.57:039][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.31-18.27.57:039][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.31-18.27.57:076][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.31-18.27.57:077][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.31-18.27.57:120][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2021.01.31-18.27.57:334][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.31-18.27.57:334][  0]LogInit: Active device profile: [000001D60C40B700][000001D609CA66C0 49] Windows
+[2021.01.31-18.27.57:334][  0]LogInit: Profiles: [000001D60C40B700][000001D609CA66C0 49] Windows, [000001D60C3E0A00][000001D60B06A840 49] WindowsNoEditor, [000001D60C408B00][000001D60B06E9C0 49] WindowsServer, [000001D60C3E2F00][000001D60B072B40 49] WindowsClient, [000001D60C40AE00][000001D60B076CC0 49] IOS, [000001D60C3E1400][000001D60B07AE40 49] iPadAir, [000001D60C409300][000001D60B07EFC0 49] iPadAir2, [000001D60C394A00][000001D60B087280 49] IPadPro, [000001D60C394B00][000001D60B0832C0 49] iPadAir3, [000001D60C40A800][000001D60B08B440 49] iPadAir4, [000001D60C397900][000001D60B08F5C0 49] iPadMini2, [000001D60C409800][000001D609CAB700 49] iPadMini3, [000001D60C396000][000001D60B093840 49] iPadMini4, [000001D60C40BA00][000001D60B097980 49] iPadMini5, [000001D60C3E0900][000001D60B0A3C00 49] iPhone6, [000001D60C3E0800][000001D60B09BC40 49] iPodTouch6, [000001D60C394D00][000001D60B0AA240 49] iPhone7, [000001D60C396500][000001D60B0A6280 49] iPodTouch7, [000001D60C3E3B00][000001D60B0AE400 49] iPhone5S, [000001D60C396C00][000001D60B0B2580 49] iPhone6Plus, [000001D60C3E2600][000001D60B0B6700 49] iPhone6S, [000001D60C397000][000001D60B0BA880 49] iPhone6SPlus, [000001D60C3E1500][000001D60D0D0A00 49] iPhone7Plus, [000001D60C395400][000001D60D0D4B80 49] iPhoneSE, [000001D60C3E3200][000001D60D0D8D00 49] iPhone8, [000001D60C394700][000001D60D0DCE80 49] iPhone8Plus, [000001D60C3E2E00][000001D60D0E1000 49] iPhoneX, [000001D60C397A00][000001D60D0E5180 49] iPhoneXS, [000001D60C3E0400][000001D60D0E9300 49] iPhoneXSMax, [000001D60C395200][000001D60D0ED480 49] iPhoneXR, [000001D60C3E3900][000001D60D117600 49] iPhone11, [000001D60C397C00][000001D60B09F740 49] iPhone11Pro, [000001D60C3E1100][000001D60D11B880 49] iPhone11ProMax, [000001D60C395E00][000001D60D1239C0 49] iPhoneSE2, [000001D60C3E2000][000001D60D127B00 49] iPhone12Mini, [000001D60C397E00][000001D60D12FC80 49] iPhone12, [000001D60C3E0F00][000001D60D132140 49] iPhone12Pro, [000001D60C394600][000001D60D1362C0 49] iPhone12ProMax, [000001D60C3E3C00][000001D60D13A440 49] iPadPro105, [000001D60C396F00][000001D60D13E5C0 49] iPadPro129, [000001D60C3E1800][000001D60D142740 49] iPadPro97, [000001D60C394800][000001D60D1468C0 49] iPadPro2_129, [000001D60C3E2200][000001D60D14AA40 49] iPad5, [000001D60C396800][000001D60D14EBC0 49] iPad6, [000001D60C3E2400][000001D60D152D40 49] iPad7, [000001D60C395900][000001D60D156EC0 49] iPad8, [000001D60C3E1B00][000001D60D15B040 49] iPadPro11, [000001D60C396100][000001D60D15F1C0 49] iPadPro2_11, [000001D60C3E2700][000001D60D163340 49] iPadPro3_129, [000001D60C395500][000001D60D1674C0 49] iPadPro4_129, [000001D60C3E2C00][000001D60D16B640 49] AppleTV, [000001D60C396200][000001D60D16F7C0 49] AppleTV4K, [000001D60C3E0500][000001D60D12B900 49] TVOS, [000001D60C396700][000001D60D173A40 49] Mac, [000001D60C3E2500][000001D60D177B80 49] MacClient, [000001D60C396300][000001D60D17FD00 49] MacNoEditor, [000001D60C3E1600][000001D60D1821C0 49] MacServer, [000001D60C397D00][000001D60D186340 49] Linux, [000001D60C3E1900][000001D60D18A4C0 49] LinuxNoEditor, [000001D60C408700][000001D60D18E640 49] LinuxAArch64NoEditor, [000001D60C45C300][000001D60D1927C0 49] LinuxClient, [000001D60C408100][000001D60D196940 49] LinuxAArch64Client, [000001D60C45C600][000001D60D19AAC0 49] LinuxServer, [000001D60C409A00][000001D60D19EC40 49] LinuxAArch64Server, [000001D60C45DA00][000001D60D1A2DC0 49] Android, [000001D60C40BF00][000001D60D1A6F40 49] Android_Low, [000001D60C45C700][000001D60D1AB0C0 49] Android_Mid, [000001D60C40AF00][000001D60D1AF240 49] Android_High, [000001D60C45D900][000001D60D1B33C0 49] Android_Default, [000001D60C40A300][000001D60D1B7540 49] Android_Adreno4xx, [000001D60C45D400][000001D60D1BB6C0 49] Android_Adreno5xx_Low, [000001D60C408C00][000001D60D1BF840 49] Android_Adreno5xx, [000001D60C45C100][000001D60D17B980 49] Android_Adreno6xx, [000001D60C40A100][000001D60D1C3AC0 49] Android_Adreno6xx_Vulkan, [000001D60C45D000][000001D60D1C7C00 49] Android_Mali_T6xx, [000001D60C3E1A00][000001D60D1CE0C0 49] Android_Mali_T7xx, [000001D60C394E00][000001D60D1D2240 49] Android_Mali_T8xx, [000001D60C3E3600][000001D60D1D63C0 49] Android_Mali_G71, [000001D60C396E00][000001D60D1DA540 49] Android_Mali_G72, [000001D60C3E1F00][000001D60D1DE6C0 49] Android_Mali_G72_Vulkan, [000001D60C394300][000001D60D1E2840 49] Android_Mali_G76, [000001D60C3E0E00][000001D60D1E69C0 49] Android_Mali_G76_Vulkan, [000001D60C394900][000001D60D1EAB40 49] Android_Mali_G77, [000001D60C3E1C00][000001D60D1EECC0 49] Android_Mali_G77_Vulkan, [000001D60C396D00][000001D60D1F2E40 49] Android_Vulkan_SM5, [000001D60C3E0100][000001D60D1F6FC0 49] Android_PowerVR_G6xxx, [000001D60C394400][000001D60D1FB140 49] Android_PowerVR_GT7xxx, [000001D60C3E3D00][000001D60D1FF2C0 49] Android_PowerVR_GE8xxx, [000001D60C396600][000001D60D203440 49] Android_PowerVR_GM9xxx, [000001D60C45CC00][000001D60D2075C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001D60C394C00][000001D60D20B740 49] Android_TegraK1, [000001D60C45D300][000001D60D20F8C0 49] Android_Unknown_Vulkan, [000001D60C395100][000001D60D1CBA00 49] Lumin, [000001D60C45C200][000001D60D213B40 49] Lumin_Desktop, [000001D60C395A00][000001D60D217C80 49] HoloLens, 
+[2021.01.31-18.27.57:422][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.31-18.27.57:422][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.31-18.27.57:423][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.31-18.27.57:423][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.31-18.27.57:423][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.31-18.27.57:462][  0]LogNetVersion: TurboPotatoes 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2916311739)
+[2021.01.31-18.27.57:816][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.01.31-18.27.57:878][  0]LogPackageLocalizationCache: Processed 26 localized package path(s) for 1 prioritized culture(s) in 0.061069 seconds
+[2021.01.31-18.27.57:883][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.01.31-18.27.57:883][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.01.31-18.27.57:883][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.31-18.27.58:359][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.31-18.27.58:362][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.31-18.28.14:245][  0]SourceControl: Source control is disabled
+[2021.01.31-18.28.14:245][  0]SourceControl: Source control is disabled
+[2021.01.31-18.28.14:247][  0]SourceControl: Source control is disabled
+[2021.01.31-18.28.14:250][  0]SourceControl: Source control is disabled
+[2021.01.31-18.28.14:252][  0]SourceControl: Source control is disabled
+[2021.01.31-18.28.14:261][  0]LogUProjectInfo: Found projects:
+[2021.01.31-18.28.14:274][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.01.31-18.28.14:275][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.01.31-18.28.14:324][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.31-18.28.14:339][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.31-18.28.14:339][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.31-18.28.14:378][  0]LogCollectionManager: Loaded 0 collections in 0.000495 seconds
+[2021.01.31-18.28.14:394][  0]LogFileCache: Scanning file cache for directory 'S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Collections/' took 0.00s
+[2021.01.31-18.28.14:394][  0]LogFileCache: Scanning file cache for directory 'S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Content/Developers/bartholomaeus/Collections/' took 0.00s
+[2021.01.31-18.28.14:394][  0]LogFileCache: Scanning file cache for directory 'S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Content/Collections/' took 0.00s
+[2021.01.31-18.28.14:394][  0]LogOcInput: OculusInput pre-init called
+[2021.01.31-18.28.16:868][  0]LogEngine: Initializing Engine...
+[2021.01.31-18.28.16:966][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.31-18.28.16:997][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.31-18.28.17:060][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.31-18.28.17:173][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.31-18.28.17:363][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.31-18.28.17:364][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.01.31-18.28.17:372][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.01.31-18.28.17:373][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.01.31-18.28.17:373][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-18.28.17:373][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-18.28.17:373][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-18.28.17:373][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-18.28.17:373][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-18.28.17:373][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-18.28.17:373][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-18.28.17:373][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-18.28.17:374][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-18.28.17:374][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-18.28.17:393][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-18.28.17:393][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-18.28.17:434][  0]LogAudioMixer: Display: Using Audio Device Lautsprecher (Realtek High Definition Audio)
+[2021.01.31-18.28.17:440][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-18.28.17:441][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-18.28.17:441][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-18.28.17:441][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-18.28.17:441][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-18.28.17:441][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-18.28.17:442][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-18.28.17:442][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-18.28.17:442][  0]LogInit: FAudioDevice initialized.
+[2021.01.31-18.28.17:443][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.01.31-18.28.17:443][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.31-18.28.17:527][  0]LogDerivedDataCache: Saved boot cache 0.08s 98MB C:/Users/bar.tholomaeus/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.31-18.28.17:528][  0]LogInit: Texture streaming: Enabled
+[2021.01.31-18.28.17:547][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.01.31-18.28.17:553][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.31-18.28.17:553][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.31-18.28.17:917][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.31-18.28.18:144][  0]LogInit: Transaction tracking system initialized
+[2021.01.31-18.28.18:173][  0]BlueprintLog: New page: Editor Load
+[2021.01.31-18.28.18:231][  0]LocalizationService: Localization service is disabled
+[2021.01.31-18.28.18:249][  0]TimingProfiler: Initialize
+[2021.01.31-18.28.18:249][  0]TimingProfiler: OnSessionChanged
+[2021.01.31-18.28.18:249][  0]LoadingProfiler: Initialize
+[2021.01.31-18.28.18:249][  0]LoadingProfiler: OnSessionChanged
+[2021.01.31-18.28.18:249][  0]NetworkingProfiler: Initialize
+[2021.01.31-18.28.18:249][  0]NetworkingProfiler: OnSessionChanged
+[2021.01.31-18.28.18:249][  0]MemoryProfiler: Initialize
+[2021.01.31-18.28.18:249][  0]MemoryProfiler: OnSessionChanged
+[2021.01.31-18.28.18:465][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.01.31-18.28.18:466][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.01.31-18.28.20:991][  0]LogFileCache: Scanning file cache for directory 'S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Content/' took 0.28s
+[2021.01.31-18.28.20:991][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.01.31-18.28.20:991][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.31-18.28.21:290][  0]SourceControl: Source control is disabled
+[2021.01.31-18.28.21:290][  0]LogUnrealEdMisc: Loading editor; pre map load, took 27.623
+[2021.01.31-18.28.21:290][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Content/FirstPersonBP/Maps/Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.31-18.28.21:290][  0]LightingResults: New page: Lighting Build
+[2021.01.31-18.28.21:291][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.28.21:291][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.28.21:291][  0]MapCheck: New page: Map Check
+[2021.01.31-18.28.21:291][  0]LightingResults: New page: Lighting Build
+[2021.01.31-18.28.22:226][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.01.31-18.28.30:314][  0]LogLinker: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\Models\st_andrews_church_south_huish\St_Andrew_s_Church_South_Huish\Textures\0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor_Mat.uasset: Failed to load '/Game/Models/st_andrews_church_south_huish/St_Andrew_s_Church_South_Huish/Textures/0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor': Can't find file.
+[2021.01.31-18.28.30:315][  0]LogLinker: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\Models\st_andrews_church_south_huish\St_Andrew_s_Church_South_Huish\Textures\0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor_Mat.uasset: Failed to load '/Game/Models/st_andrews_church_south_huish/St_Andrew_s_Church_South_Huish/Textures/0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor': Can't find file.
+[2021.01.31-18.28.30:315][  0]LogLinker: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\Models\st_andrews_church_south_huish\St_Andrew_s_Church_South_Huish\Textures\0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor_Mat.uasset: Failed to load '/Game/Models/st_andrews_church_south_huish/St_Andrew_s_Church_South_Huish/Textures/0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor': Can't find file.
+[2021.01.31-18.28.30:412][  0]LogLinker: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\KiteDemo\Environments\Trees\Vegetation_Debris_002\MI_Vegetation_Debris_002.uasset: Failed to load '/Game/KiteDemo/Environments/Trees/Vegetation_Debris_002/T_Vegetation_Debris_002_D_R': Can't find file.
+[2021.01.31-18.28.30:412][  0]LogLinker: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\KiteDemo\Environments\Trees\Vegetation_Debris_002\MI_Vegetation_Debris_002.uasset: Failed to load '/Game/KiteDemo/Environments/Trees/Vegetation_Debris_002/T_Vegetation_Debris_002_D_R': Can't find file.
+[2021.01.31-18.28.30:412][  0]LogLinker: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\KiteDemo\Environments\Trees\Vegetation_Debris_002\MI_Vegetation_Debris_002.uasset: Failed to load '/Game/KiteDemo/Environments/Trees/Vegetation_Debris_002/T_Vegetation_Debris_002_N': Can't find file.
+[2021.01.31-18.28.30:412][  0]LogLinker: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\KiteDemo\Environments\Trees\Vegetation_Debris_002\MI_Vegetation_Debris_002.uasset: Failed to load '/Game/KiteDemo/Environments/Trees/Vegetation_Debris_002/T_Vegetation_Debris_002_N': Can't find file.
+[2021.01.31-18.28.30:412][  0]LogLinker: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\KiteDemo\Environments\Trees\Vegetation_Debris_002\MI_Vegetation_Debris_002.uasset: Failed to load '/Game/KiteDemo/Environments/Trees/Vegetation_Debris_002/T_Vegetation_Debris_002_D_R': Can't find file.
+[2021.01.31-18.28.30:413][  0]LogLinker: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\KiteDemo\Environments\Trees\Vegetation_Debris_002\MI_Vegetation_Debris_002.uasset: Failed to load '/Game/KiteDemo/Environments/Trees/Vegetation_Debris_002/T_Vegetation_Debris_002_N': Can't find file.
+[2021.01.31-18.28.30:538][  0]LogLinker: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\Models\st_andrews_church_south_huish\St_Andrew_s_Church_South_Huish\Materials\SouthHuishChurch03_SouthHuishChurch03_u1_v1.uasset: Failed to load '/Game/Models/st_andrews_church_south_huish/St_Andrew_s_Church_South_Huish/Textures/0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor': Can't find file.
+[2021.01.31-18.28.30:538][  0]LogLinker: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\Models\st_andrews_church_south_huish\St_Andrew_s_Church_South_Huish\Materials\SouthHuishChurch03_SouthHuishChurch03_u1_v1.uasset: Failed to load '/Game/Models/st_andrews_church_south_huish/St_Andrew_s_Church_South_Huish/Textures/0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor': Can't find file.
+[2021.01.31-18.28.32:520][  0]LogTexture: Display: Building textures: KeyE (AutoDXT, 256X256)
+[2021.01.31-18.28.32:520][  0]LogTexture: Display: Building textures: Project_Book_DefaultMaterial_BaseColor (AutoDXT, 2048X2048)
+[2021.01.31-18.28.32:520][  0]LogTexture: Display: Building textures: Project_Book_DefaultMaterial_Normal (BC5, 2048X2048)
+[2021.01.31-18.28.32:520][  0]LogTexture: Display: Building textures: empty_red_trans (BGRA8, 121X61)
+[2021.01.31-18.28.32:520][  0]LogTexture: Display: Building textures: almost_empty_trans (BGRA8, 121X60)
+[2021.01.31-18.28.32:520][  0]LogTexture: Display: Building textures: empty_trans (BGRA8, 121X60)
+[2021.01.31-18.28.32:520][  0]LogTexture: Display: Building textures: full_trans (BGRA8, 121X60)
+[2021.01.31-18.28.32:520][  0]LogTexture: Display: Building textures: almost_full_trans (BGRA8, 121X60)
+[2021.01.31-18.28.32:520][  0]LogTexture: Display: Building textures: keypad_icon (BGRA8, 438X721)
+[2021.01.31-18.28.32:520][  0]LogLinker: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\KiteDemo\Environments\Trees\Vegetation_Debris_002\MI_Vegetation_Debris_002.uasset: Failed to load '/Game/KiteDemo/Environments/Trees/Vegetation_Debris_002/T_Vegetation_Debris_002_D_R': Can't find file.
+[2021.01.31-18.28.32:520][  0]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/Vegetation_Debris_002/T_Vegetation_Debris_002_D_R.T_Vegetation_Debris_002_D_R Referenced by MI_Vegetation_Debris_002
+[2021.01.31-18.28.32:520][  0]LogLinker: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\KiteDemo\Environments\Trees\Vegetation_Debris_002\MI_Vegetation_Debris_002.uasset: Failed to load '/Game/KiteDemo/Environments/Trees/Vegetation_Debris_002/T_Vegetation_Debris_002_N': Can't find file.
+[2021.01.31-18.28.32:520][  0]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/Vegetation_Debris_002/T_Vegetation_Debris_002_N.T_Vegetation_Debris_002_N Referenced by MI_Vegetation_Debris_002
+[2021.01.31-18.28.32:941][  0]LogLinker: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\Models\st_andrews_church_south_huish\St_Andrew_s_Church_South_Huish\Textures\0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor_Mat.uasset: Failed to load '/Game/Models/st_andrews_church_south_huish/St_Andrew_s_Church_South_Huish/Textures/0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor': Can't find file.
+[2021.01.31-18.28.32:941][  0]LoadErrors: Failed to load /Game/Models/st_andrews_church_south_huish/St_Andrew_s_Church_South_Huish/Textures/0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor.0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor Referenced by 0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor_Mat
+[2021.01.31-18.28.32:941][  0]LogLinker: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\Models\st_andrews_church_south_huish\St_Andrew_s_Church_South_Huish\Textures\0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor_Mat.uasset: Failed to load '/Game/Models/st_andrews_church_south_huish/St_Andrew_s_Church_South_Huish/Textures/0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor': Can't find file.
+[2021.01.31-18.28.32:942][  0]LoadErrors: Failed to load /Game/Models/st_andrews_church_south_huish/St_Andrew_s_Church_South_Huish/Textures/0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor.0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor Referenced by MaterialExpressionTextureSample_0
+[2021.01.31-18.28.33:252][  0]LogLinker: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\Models\st_andrews_church_south_huish\St_Andrew_s_Church_South_Huish\Materials\SouthHuishChurch03_SouthHuishChurch03_u1_v1.uasset: Failed to load '/Game/Models/st_andrews_church_south_huish/St_Andrew_s_Church_South_Huish/Textures/0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor': Can't find file.
+[2021.01.31-18.28.33:252][  0]LoadErrors: Failed to load /Game/Models/st_andrews_church_south_huish/St_Andrew_s_Church_South_Huish/Textures/0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor.0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor Referenced by SouthHuishChurch03_SouthHuishChurch03_u1_v1
+[2021.01.31-18.28.33:252][  0]LogLinker: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\Models\st_andrews_church_south_huish\St_Andrew_s_Church_South_Huish\Materials\SouthHuishChurch03_SouthHuishChurch03_u1_v1.uasset: Failed to load '/Game/Models/st_andrews_church_south_huish/St_Andrew_s_Church_South_Huish/Textures/0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor': Can't find file.
+[2021.01.31-18.28.33:252][  0]LoadErrors: Failed to load /Game/Models/st_andrews_church_south_huish/St_Andrew_s_Church_South_Huish/Textures/0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor.0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor Referenced by SouthHuishChurch03_SouthHuishChurch03_u1_v1
+[2021.01.31-18.28.33:252][  0]LogLinker: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\Models\st_andrews_church_south_huish\St_Andrew_s_Church_South_Huish\Materials\SouthHuishChurch03_SouthHuishChurch03_u1_v1.uasset: Failed to load '/Game/Models/st_andrews_church_south_huish/St_Andrew_s_Church_South_Huish/Textures/0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor': Can't find file.
+[2021.01.31-18.28.33:252][  0]LoadErrors: Failed to load /Game/Models/st_andrews_church_south_huish/St_Andrew_s_Church_South_Huish/Textures/0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor.0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor Referenced by MaterialExpressionTextureSampleParameter2D_0
+[2021.01.31-18.28.33:421][  0]LogStaticMesh: Building static mesh door_key...
+[2021.01.31-18.28.35:625][  0]LogStaticMesh: Built static mesh [2.22s] /Game/Geometry/Assets/Key/door_key.door_key
+[2021.01.31-18.28.36:281][  0]LogStaticMesh: Building static mesh Battery...
+[2021.01.31-18.28.36:295][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Assets/Battery/Battery.Battery
+[2021.01.31-18.28.36:306][  0]LogMaterial: Display: Missing cached shader map for material code_book_mat, compiling. 
+[2021.01.31-18.28.36:762][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.01.31-18.28.36:762][  0]LogStaticMesh: Building static mesh code_book...
+[2021.01.31-18.28.36:781][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.01.31-18.28.36:781][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.01.31-18.28.36:781][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.31-18.28.36:781][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Assets/CodeBook/code_book.code_book
+[2021.01.31-18.28.38:107][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave flashlight_reload_shorter...
+[2021.01.31-18.28.38:108][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/flashlight_reload_shorter.flashlight_reload_shorter will be modified from 40 to 40.
+[2021.01.31-18.28.38:659][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 526226 while cooking SoundWave /Game/Sounds/flashlight_reload_shorter.flashlight_reload_shorter.
+[2021.01.31-18.28.38:659][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave flashlight_on_off...
+[2021.01.31-18.28.38:660][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/flashlight_on_off.flashlight_on_off will be modified from 40 to 40.
+[2021.01.31-18.28.38:692][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 107840 while cooking SoundWave /Game/Sounds/flashlight_on_off.flashlight_on_off.
+[2021.01.31-18.28.38:713][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave game-background-music...
+[2021.01.31-18.28.38:727][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/game-background-music.game-background-music will be modified from 40 to 40.
+[2021.01.31-18.28.40:831][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 25403436 while cooking SoundWave /Game/Sounds/game-background-music.game-background-music.
+[2021.01.31-18.28.40:835][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave open_door_squeak...
+[2021.01.31-18.28.40:835][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/open_door_squeak.open_door_squeak will be modified from 40 to 40.
+[2021.01.31-18.28.40:891][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 691200 while cooking SoundWave /Game/Sounds/open_door_squeak.open_door_squeak.
+[2021.01.31-18.28.41:665][  0]LogStaticMesh: Warning: Mesh BogMyrtleBush_02 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02.BogMyrtleBush_02.
+[2021.01.31-18.28.41:802][  0]LogStaticMesh: Warning: Mesh SM_Buttercup_Patch_01 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/SM_Buttercup_Patch_01.SM_Buttercup_Patch_01.
+[2021.01.31-18.28.41:850][  0]LogStaticMesh: Warning: Mesh SM_Heather_Mesh_Clumps2 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2.SM_Heather_Mesh_Clumps2.
+[2021.01.31-18.28.41:877][  0]LogStaticMesh: Warning: Mesh SM_Heather_Mesh_Clumps2_WorldPopulate is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.SM_Heather_Mesh_Clumps2_WorldPopulate.
+[2021.01.31-18.28.41:921][  0]LogStaticMesh: Warning: Mesh SM_Yarrow is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow.SM_Yarrow.
+[2021.01.31-18.28.41:932][  0]LogStaticMesh: Warning: Mesh SM_Yarrow3 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow3.SM_Yarrow3.
+[2021.01.31-18.28.41:946][  0]LogStaticMesh: Warning: Mesh SM_FieldGrass_01 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Foliage/Grass/FieldGrass/SM_FieldGrass_01.SM_FieldGrass_01.
+[2021.01.31-18.28.42:305][  0]LogStaticMesh: Warning: Mesh HillTree_Tall_02 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02.HillTree_Tall_02.
+[2021.01.31-18.28.42:545][  0]LogStaticMesh: Warning: Mesh SM_Vegetation_Debris_002 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Trees/Vegetation_Debris_002/SM_Vegetation_Debris_002.SM_Vegetation_Debris_002.
+[2021.01.31-18.28.45:081][  0]LogMaterial: Display: Missing cached shader map for material 0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor_Mat, compiling. 
+[2021.01.31-18.28.45:098][  0]LogMaterial: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\Models\st_andrews_church_south_huish\St_Andrew_s_Church_South_Huish\Textures\0_SouthHuishChurch03_SouthHuishChurch03_u1_v1_baseColor_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.01.31-18.28.45:104][  0]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.01.31-18.28.45:173][  0]LogMaterial: Display: Missing cached shader map for material SouthHuishChurch03_SouthHuishChurch03_u1_v1, compiling. 
+[2021.01.31-18.28.45:185][  0]LogMaterial: Warning: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\Models\st_andrews_church_south_huish\St_Andrew_s_Church_South_Huish\Materials\SouthHuishChurch03_SouthHuishChurch03_u1_v1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.01.31-18.28.45:185][  0]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.01.31-18.28.45:228][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map1'.
+[2021.01.31-18.28.45:229][  0]LogAIModule: Creating AISystem for world Map1
+[2021.01.31-18.28.45:677][  0]LogMaterial: Display: Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_Mat.ScotsPine_01_Branches_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.01.31-18.28.45:679][  0]LogMaterial: Display: Missing cached shader map for material ScotsPine_01_Branches_Mat, compiling. 
+[2021.01.31-18.28.45:787][  0]MapCheck: Warning: ScotsPine_01_Branches_Mat Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_Mat.ScotsPine_01_Branches_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.01.31-18.28.45:811][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 62
+[2021.01.31-18.28.45:811][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2021.01.31-18.28.45:811][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2021.01.31-18.28.45:811][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2021.01.31-18.28.45:811][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 22
+[2021.01.31-18.28.45:820][  0]LogMaterial: Display: Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_2_Mat.ScotsPine_01_Branches_2_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.01.31-18.28.45:821][  0]LogMaterial: Display: Missing cached shader map for material ScotsPine_01_Branches_2_Mat, compiling. 
+[2021.01.31-18.28.45:851][  0]MapCheck: Warning: ScotsPine_01_Branches_2_Mat Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_2_Mat.ScotsPine_01_Branches_2_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.01.31-18.28.45:852][  0]LogMaterial: Display: Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Leaves_Mat.ScotsPine_01_Leaves_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.01.31-18.28.45:854][  0]LogMaterial: Display: Missing cached shader map for material ScotsPine_01_Leaves_Mat, compiling. 
+[2021.01.31-18.28.45:908][  0]MapCheck: Warning: ScotsPine_01_Leaves_Mat Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Leaves_Mat.ScotsPine_01_Leaves_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.01.31-18.28.45:908][  0]LogMaterial: Display: Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Fronds_Mat.ScotsPine_01_Fronds_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.01.31-18.28.45:910][  0]LogMaterial: Display: Missing cached shader map for material ScotsPine_01_Fronds_Mat, compiling. 
+[2021.01.31-18.28.45:947][  0]MapCheck: Warning: ScotsPine_01_Fronds_Mat Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Fronds_Mat.ScotsPine_01_Fronds_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.01.31-18.28.45:948][  0]LogMaterial: Display: Material /Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat.ScotsPineTall_01_Billboard_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.01.31-18.28.45:950][  0]LogMaterial: Display: Missing cached shader map for material ScotsPineTall_01_Billboard_Mat, compiling. 
+[2021.01.31-18.28.45:987][  0]MapCheck: Warning: ScotsPineTall_01_Billboard_Mat Material /Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat.ScotsPineTall_01_Billboard_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.01.31-18.28.46:025][  0]LogMaterial: Display: Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Billboard_Mat.ScotsPine_01_Billboard_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2021.01.31-18.28.46:027][  0]LogMaterial: Display: Missing cached shader map for material ScotsPine_01_Billboard_Mat, compiling. 
+[2021.01.31-18.28.46:066][  0]MapCheck: Warning: ScotsPine_01_Billboard_Mat Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Billboard_Mat.ScotsPine_01_Billboard_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.01.31-18.28.46:126][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Cone_93.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=8.250 Y=0.000 Z=2.000
+[2021.01.31-18.28.46:126][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:126][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.31-18.28.46:126][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:126][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.31-18.28.46:126][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:126][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.31-18.28.46:126][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:126][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.31-18.28.46:126][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Cone2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=8.250 Y=0.000 Z=2.000
+[2021.01.31-18.28.46:126][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:126][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.31-18.28.46:126][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:126][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.31-18.28.46:126][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:126][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.31-18.28.46:126][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:126][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.31-18.28.46:127][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Cone3.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=8.250 Y=0.000 Z=2.000
+[2021.01.31-18.28.46:127][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:127][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.31-18.28.46:127][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:127][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.31-18.28.46:127][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:127][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.31-18.28.46:127][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:127][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Cone4.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=8.250 Y=0.000 Z=2.000
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Cone5.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=8.250 Y=0.000 Z=2.000
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Cone6.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=8.250 Y=0.000 Z=2.000
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.31-18.28.46:128][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Cone8.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=12.500 Y=0.000 Z=2.000
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Cone9.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=12.500 Y=0.000 Z=2.000
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.31-18.28.46:129][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Cone7_136.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=8.250 Y=0.000 Z=2.000
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Cone10.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=8.250 Y=0.000 Z=2.000
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Cone11.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=8.250 Y=0.000 Z=2.000
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:130][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.31-18.28.46:131][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Cone12.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=8.250 Y=0.000 Z=2.000
+[2021.01.31-18.28.46:131][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:131][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.31-18.28.46:131][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:131][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.31-18.28.46:131][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:131][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.31-18.28.46:131][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:131][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.31-18.28.46:131][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Cone13.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.000 Y=0.000 Z=2.000
+[2021.01.31-18.28.46:131][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:131][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.31-18.28.46:131][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:131][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.31-18.28.46:131][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:131][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.31-18.28.46:131][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:131][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.31-18.28.46:132][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Cone14.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=8.250 Y=0.000 Z=2.000
+[2021.01.31-18.28.46:132][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:132][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.31-18.28.46:132][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:132][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.31-18.28.46:132][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:132][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.31-18.28.46:132][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:132][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.31-18.28.46:132][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/Map1.Map1:PersistentLevel.Cone15.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=11.250 Y=0.000 Z=2.000
+[2021.01.31-18.28.46:132][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:132][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.01.31-18.28.46:132][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:132][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2021.01.31-18.28.46:132][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:132][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2021.01.31-18.28.46:132][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.01.31-18.28.46:132][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2021.01.31-18.28.46:482][  0]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2021.01.31-18.28.46:482][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2021.01.31-18.28.46:761][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.31-18.28.46:818][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.01.31-18.28.46:835][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.31-18.28.46:835][  0]MapCheck: Map check complete: 0 Error(s), 6 Warning(s), took 0,269ms to complete.
+[2021.01.31-18.28.46:859][  0]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.28.46:882][  0]LogFileHelpers: Loading map 'Map1' took 25.592
+[2021.01.31-18.28.47:028][  0]LogUnrealEdMisc: Total Editor Startup Time, took 53.361
+[2021.01.31-18.28.48:165][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.28.48:177][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.28.48:189][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.28.48:201][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.28.48:574][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0122 seconds. Added 3801 classes and 916 folders.
+[2021.01.31-18.28.48:739][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.01.31-18.28.48:894][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.31-18.28.48:895][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.48:895][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.31-18.28.48:895][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.01.31-18.28.48:914][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.31-18.28.48:914][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.48:914][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.31-18.28.48:914][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.01.31-18.28.48:931][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.01.31-18.28.48:931][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.48:931][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.01.31-18.28.48:931][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.01.31-18.28.48:950][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.31-18.28.48:950][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.48:950][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.31-18.28.48:950][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.01.31-18.28.48:967][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.31-18.28.48:967][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.48:967][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.31-18.28.48:967][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.01.31-18.28.48:995][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.31-18.28.48:995][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.48:995][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.31-18.28.48:995][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.01.31-18.28.49:018][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.31-18.28.49:018][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:018][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.31-18.28.49:018][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.01.31-18.28.49:068][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.31-18.28.49:068][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:068][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.31-18.28.49:068][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.01.31-18.28.49:089][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.31-18.28.49:090][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:090][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.31-18.28.49:090][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.01.31-18.28.49:107][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.31-18.28.49:107][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:107][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.31-18.28.49:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.01.31-18.28.49:122][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.31-18.28.49:122][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:122][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.31-18.28.49:122][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.01.31-18.28.49:140][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.31-18.28.49:140][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:140][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.31-18.28.49:140][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.01.31-18.28.49:156][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.31-18.28.49:156][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:156][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.31-18.28.49:156][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2021.01.31-18.28.49:174][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.31-18.28.49:174][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:174][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.31-18.28.49:174][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2021.01.31-18.28.49:188][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.31-18.28.49:188][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:188][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.31-18.28.49:188][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2021.01.31-18.28.49:208][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.31-18.28.49:208][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:208][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.31-18.28.49:208][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2021.01.31-18.28.49:221][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.31-18.28.49:222][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:222][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.31-18.28.49:222][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2021.01.31-18.28.49:277][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.31-18.28.49:277][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:277][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.31-18.28.49:277][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2021.01.31-18.28.49:307][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.31-18.28.49:307][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:307][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.31-18.28.49:307][  0]LogPakFile: OnPakFileMounted2Time == 0.000120
+[2021.01.31-18.28.49:324][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.31-18.28.49:324][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:324][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.31-18.28.49:324][  0]LogPakFile: OnPakFileMounted2Time == 0.000128
+[2021.01.31-18.28.49:343][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.31-18.28.49:343][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:343][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.31-18.28.49:343][  0]LogPakFile: OnPakFileMounted2Time == 0.000132
+[2021.01.31-18.28.49:365][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.31-18.28.49:365][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:365][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.31-18.28.49:365][  0]LogPakFile: OnPakFileMounted2Time == 0.000136
+[2021.01.31-18.28.49:386][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.01.31-18.28.49:387][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:387][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.01.31-18.28.49:387][  0]LogPakFile: OnPakFileMounted2Time == 0.000141
+[2021.01.31-18.28.49:400][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.31-18.28.49:400][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:400][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.31-18.28.49:400][  0]LogPakFile: OnPakFileMounted2Time == 0.000148
+[2021.01.31-18.28.49:456][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.31-18.28.49:456][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:456][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.31-18.28.49:456][  0]LogPakFile: OnPakFileMounted2Time == 0.000155
+[2021.01.31-18.28.49:504][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.31-18.28.49:504][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.31-18.28.49:504][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.31-18.28.49:504][  0]LogPakFile: OnPakFileMounted2Time == 0.000160
+[2021.01.31-18.28.50:618][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 334
+[2021.01.31-18.28.50:618][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 324
+[2021.01.31-18.28.50:618][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.01.31-18.28.51:347][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 314
+[2021.01.31-18.28.51:347][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 304
+[2021.01.31-18.28.51:347][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 294
+[2021.01.31-18.28.51:347][  0]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.28.51:373][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.31-18.28.51:434][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.31-18.28.51:452][  0]LogSlate: Took 0.012521 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.31-18.28.52:199][  0]LogRenderer: Reallocating scene render targets to support 1152x652 Format 10 NumSamples 1 (Frame:1).
+[2021.01.31-18.28.56:438][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 284
+[2021.01.31-18.28.56:438][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 274
+[2021.01.31-18.28.56:438][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 264
+[2021.01.31-18.28.56:438][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 254
+[2021.01.31-18.28.56:447][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.31-18.28.56:447][  0]LogLoad: (Engine Initialization) Total time: 62.78 seconds
+[2021.01.31-18.28.56:447][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.31-18.28.56:447][  0]LogInit: First time updating LLM stats...
+[2021.01.31-18.28.56:743][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.31-18.28.56:920][  0]LogSlate: Took 0.016526 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.31-18.28.56:947][  1]LogFileCache: Retrieving MD5 hashes for directory 'S:/Unreal Projects/turbo-potatoes/TurboPotatoes/Content/' took 0.46s
+[2021.01.31-18.28.57:464][  2]LogAssetRegistry: Asset discovery search completed in 60.3440 seconds
+[2021.01.31-18.28.57:466][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.01.31-18.28.57:642][  3]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.28.57:666][  3]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.28.57:743][  3]LogSlate: Took 0.014726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.31-18.29.01:735][215]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 244
+[2021.01.31-18.29.01:783][218]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 234
+[2021.01.31-18.29.04:098][362]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 224
+[2021.01.31-18.29.04:126][363]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 214
+[2021.01.31-18.29.07:847][577]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 204
+[2021.01.31-18.29.11:716][815]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 194
+[2021.01.31-18.29.12:000][832]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 184
+[2021.01.31-18.29.12:346][851]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 174
+[2021.01.31-18.29.17:290][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 164
+[2021.01.31-18.29.17:826][102]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 154
+[2021.01.31-18.29.17:908][104]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.29.19:202][184]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.29.19:310][195]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 144
+[2021.01.31-18.29.19:392][199]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 134
+[2021.01.31-18.29.22:855][580]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 124
+[2021.01.31-18.29.23:325][636]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 114
+[2021.01.31-18.29.23:740][676]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.29.23:937][695]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.29.23:998][697]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.29.24:213][722]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 104
+[2021.01.31-18.29.25:267][845]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.29.25:426][864]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 94
+[2021.01.31-18.29.26:960][  7]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.29.27:118][  8]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 84
+[2021.01.31-18.29.27:363][ 20]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 74
+[2021.01.31-18.29.30:915][241]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 64
+[2021.01.31-18.29.31:502][278]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 54
+[2021.01.31-18.29.34:166][445]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2021.01.31-18.29.34:872][494]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2021.01.31-18.29.36:674][596]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2021.01.31-18.29.36:784][600]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.01.31-18.29.40:186][796]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.01.31-18.29.40:534][818]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.01.31-18.29.40:908][839]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.01.31-18.29.40:926][840]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.01.31-18.29.42:868][951]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.01.31-18.29.42:974][958]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.01.31-18.31.09:797][978]LogSlate: Window 'Plugins' being destroyed
+[2021.01.31-18.31.09:801][978]LogSlate: Window 'Plugins' being destroyed
+[2021.01.31-18.31.09:802][978]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.01.31-18.31.10:982][ 63]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.31-18.31.16:171][573]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2021.01.31-18.31.16:381][573]LogEditorActor: No worlds found in edactSelectMatchingStaticMesh
+[2021.01.31-18.31.48:228][463]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.31.52:479][896]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.31.52:513][896]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Blueprints/MainMenu.MainMenu
+[2021.01.31-18.31.52:816][896]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.31.53:155][896]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 126 classes and 0 folders.
+[2021.01.31-18.31.57:061][896]LogSlate: Took 0.009122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.31-18.32.35:950][793]LogSlate: Took 0.048256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.01.31-18.32.45:613][628]LogSlate: Took 0.014678 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.31-18.33.15:232][228]LogSlate: Window 'MainMenu' being destroyed
+[2021.01.31-18.33.15:324][228]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.33.15:324][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.33.15:384][228]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.33.15:384][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.33.18:192][507]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.33.18:207][507]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Blueprints/MainMenu.MainMenu
+[2021.01.31-18.33.18:250][507]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.34.48:102][231]LogSlate: Window 'MainMenu' being destroyed
+[2021.01.31-18.34.48:118][231]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.34.48:118][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.34.48:133][231]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.34.48:133][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.35.24:850][379]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.35.38:503][926]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.35.51:880][315]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.36.45:685][227]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.37.02:954][ 66]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.01.31-18.37.03:004][ 67]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2021.01.31-18.37.03:004][ 67]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2021.01.31-18.37.03:004][ 67]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.01.31-18.37.03:004][ 67]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.01.31-18.37.08:034][379]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.37.08:051][379]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/JumpScares/Screamers/ScreamWidget.ScreamWidget
+[2021.01.31-18.37.08:094][379]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.37.19:980][397]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.37.19:997][397]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/JumpScares/Screamers/ScreamArea.ScreamArea
+[2021.01.31-18.37.28:120][945]LogRenderer: Reallocating scene render targets to support 1240x712 Format 10 NumSamples 1 (Frame:1).
+[2021.01.31-18.37.52:900][923]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.37.52:900][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.37.52:908][923]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.37.52:908][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.38.04:797][944]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.38.04:827][945]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.38.06:290][ 74]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.38.06:414][ 74]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.38.11:715][ 74]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.31-18.38.26:035][634]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.38.26:051][634]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/WinArea.WinArea
+[2021.01.31-18.38.29:484][875]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.38.42:955][112]BlueprintLog: New page: Compile WinArea
+[2021.01.31-18.38.43:141][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.01.31-18.38.43:260][112]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.38.43:299][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinArea" FILE="../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Content/WinArea.uasset" SILENT=true
+[2021.01.31-18.38.43:337][112]LogSavePackage: Moving '../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/WinAreaAA4A5B4E48704B4DFF18F7B140247125.tmp' to '../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Content/WinArea.uasset'
+[2021.01.31-18.38.43:461][112]AssetCheck: New page: Asset Save: WinArea
+[2021.01.31-18.38.43:461][112]LogContentValidation: Display: Validating Blueprint /Game/WinArea.WinArea
+[2021.01.31-18.39.20:915][485]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.39.24:437][769]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.39.26:889][999]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.39.36:731][881]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.39.41:606][390]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.39.43:448][591]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.39.43:953][640]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.39.46:513][900]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.39.55:353][769]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.40.25:218][714]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.40.44:499][751]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.40.45:205][816]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.41.05:431][508]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.41.14:159][534]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.41.14:227][534]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.01.31-18.41.15:397][534]LogSavePackage: Moving '../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Map1_Auto1103137BD4292825DB47E97913E093E60.tmp' to '../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Autosaves/Game/FirstPersonBP/Maps/Map1_Auto1.umap'
+[2021.01.31-18.41.15:405][534]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Map1' took 1.226
+[2021.01.31-18.41.15:405][534]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.226
+[2021.01.31-18.41.15:405][534]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WinArea] ([1] browsable assets)...
+[2021.01.31-18.41.15:405][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/WinArea]
+[2021.01.31-18.41.15:405][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinArea" FILE="../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Autosaves/Game/WinArea_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.01.31-18.41.15:430][534]LogSavePackage: Moving '../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/WinArea_Auto1F06F581B42FFC69BD6EE608B229DF732.tmp' to '../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/Autosaves/Game/WinArea_Auto1.uasset'
+[2021.01.31-18.41.15:431][534]LogFileHelpers: Auto-saving content packages took 0.026
+[2021.01.31-18.41.35:051][973]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.41.47:993][212]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.41.58:556][173]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.42.05:505][849]BlueprintLog: New page: Compile WinArea
+[2021.01.31-18.42.05:540][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.01.31-18.42.05:558][849]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.42.05:578][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WinArea" FILE="../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Content/WinArea.uasset" SILENT=true
+[2021.01.31-18.42.05:585][849]LogSavePackage: Moving '../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Saved/WinArea02AE05BE4C045DC30A8BF49C02774BDD.tmp' to '../../../../../Unreal Projects/turbo-potatoes/TurboPotatoes/Content/WinArea.uasset'
+[2021.01.31-18.42.05:602][849]AssetCheck: New page: Asset Save: WinArea
+[2021.01.31-18.42.05:602][849]LogContentValidation: Display: Validating Blueprint /Game/WinArea.WinArea
+[2021.01.31-18.42.08:520][110]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.42.24:980][650]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.42.36:912][925]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.42.45:422][730]BlueprintLog: New page: Compile WinArea
+[2021.01.31-18.42.45:435][730]LogBlueprint: Error: [AssetLog] S:\Unreal Projects\turbo-potatoes\TurboPotatoes\Content\WinArea.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2021.01.31-18.42.45:508][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.01.31-18.42.50:927][190]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.42.50:927][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.42.58:249][862]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.42.58:602][903]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.43.02:793][360]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.43.03:359][424]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.43.04:215][522]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.43.04:891][601]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.43.05:494][669]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.43.07:789][939]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.43.08:833][ 62]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.43.12:397][472]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.43.12:490][474]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.43.13:104][537]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.43.25:105][839]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-18.43.25:129][839]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WinWidget.WinWidget
+[2021.01.31-18.43.46:510][493]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.01.31-18.43.47:614][493]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.105 s
+[2021.01.31-18.43.47:615][493]LogOutputDevice: Error: === Handled ensure: ===
+[2021.01.31-18.43.47:615][493]LogOutputDevice: Error: 
+[2021.01.31-18.43.47:615][493]LogOutputDevice: Error: Ensure condition failed: HasFiles() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Public\Input/DragAndDrop.h] [Line: 238]
+[2021.01.31-18.43.47:615][493]LogOutputDevice: Error: 
+[2021.01.31-18.43.47:615][493]LogOutputDevice: Error: Stack: 
+[2021.01.31-18.43.47:615][493]LogOutputDevice: Error: [Callstack] 0x00007ffdf798bb39 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.31-18.43.47:615][493]LogOutputDevice: Error: [Callstack] 0x00007ffdf770bd8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.31-18.43.47:615][493]LogOutputDevice: Error: [Callstack] 0x00007ffdb2035a7e UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.01.31-18.43.47:615][493]LogOutputDevice: Error: [Callstack] 0x00007ffdcb3364cc UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.31-18.43.47:615][493]LogOutputDevice: Error: [Callstack] 0x00007ffdcb358277 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.31-18.43.47:615][493]LogOutputDevice: Error: [Callstack] 0x00007ffdf683405f UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.31-18.43.47:615][493]LogOutputDevice: Error: [Callstack] 0x00007ffdf6813a21 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.31-18.43.47:616][493]LogOutputDevice: Error: [Callstack] 0x00007ffdf68981b0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.31-18.43.47:616][493]LogOutputDevice: Error: [Callstack] 0x00007ffdf6880367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.31-18.43.47:616][493]LogOutputDevice: Error: [Callstack] 0x00007ffdf6870eb6 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.31-18.43.47:616][493]LogOutputDevice: Error: [Callstack] 0x00007ffe14559b4a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.31-18.43.47:616][493]LogOutputDevice: Error: [Callstack] 0x00007ffe14549d75 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.31-18.43.47:616][493]LogOutputDevice: Error: [Callstack] 0x00007ffe47b08832 ole32.dll!UnknownFunction []
+[2021.01.31-18.43.47:616][493]LogOutputDevice: Error: [Callstack] 0x00007ffe47c16da3 RPCRT4.dll!UnknownFunction []
+[2021.01.31-18.43.47:616][493]LogOutputDevice: Error: [Callstack] 0x00007ffe47c79b06 RPCRT4.dll!UnknownFunction []
+[2021.01.31-18.43.47:616][493]LogOutputDevice: Error: [Callstack] 0x00007ffe47bd7e29 RPCRT4.dll!UnknownFunction []
+[2021.01.31-18.43.47:616][493]LogOutputDevice: Error: [Callstack] 0x00007ffe481e83df combase.dll!UnknownFunction []
+[2021.01.31-18.43.47:616][493]LogOutputDevice: Error: [Callstack] 0x00007ffe48174313 combase.dll!UnknownFunction []
+[2021.01.31-18.43.47:616][493]LogOutputDevice: Error: [Callstack] 0x00007ffe48174103 combase.dll!UnknownFunction []
+[2021.01.31-18.43.47:617][493]LogOutputDevice: Error: [Callstack] 0x00007ffe481eb036 combase.dll!UnknownFunction []
+[2021.01.31-18.43.47:617][493]LogOutputDevice: Error: [Callstack] 0x00007ffe481782da combase.dll!UnknownFunction []
+[2021.01.31-18.43.47:617][493]LogOutputDevice: Error: [Callstack] 0x00007ffe4817550d combase.dll!UnknownFunction []
+[2021.01.31-18.43.47:617][493]LogOutputDevice: Error: [Callstack] 0x00007ffe4819579c combase.dll!UnknownFunction []
+[2021.01.31-18.43.47:617][493]LogOutputDevice: Error: [Callstack] 0x00007ffe48196001 combase.dll!UnknownFunction []
+[2021.01.31-18.43.47:617][493]LogOutputDevice: Error: [Callstack] 0x00007ffe481b7c6d combase.dll!UnknownFunction []
+[2021.01.31-18.43.47:617][493]LogOutputDevice: Error: [Callstack] 0x00007ffe47f45c1d USER32.dll!UnknownFunction []
+[2021.01.31-18.43.47:617][493]LogOutputDevice: Error: [Callstack] 0x00007ffe47f45612 USER32.dll!UnknownFunction []
+[2021.01.31-18.43.47:617][493]LogOutputDevice: Error: [Callstack] 0x00007ffe1455f904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.31-18.43.47:617][493]LogOutputDevice: Error: [Callstack] 0x00007ff72f4287e7 UE4Editor.exe!UnknownFunction []
+[2021.01.31-18.43.47:617][493]LogOutputDevice: Error: [Callstack] 0x00007ff72f44113c UE4Editor.exe!UnknownFunction []
+[2021.01.31-18.43.47:617][493]LogOutputDevice: Error: [Callstack] 0x00007ff72f44121a UE4Editor.exe!UnknownFunction []
+[2021.01.31-18.43.47:617][493]LogOutputDevice: Error: [Callstack] 0x00007ff72f45527d UE4Editor.exe!UnknownFunction []
+[2021.01.31-18.43.47:617][493]LogOutputDevice: Error: [Callstack] 0x00007ff72f457faa UE4Editor.exe!UnknownFunction []
+[2021.01.31-18.43.47:617][493]LogOutputDevice: Error: [Callstack] 0x00007ffe48817c24 KERNEL32.DLL!UnknownFunction []
+[2021.01.31-18.43.47:618][493]LogOutputDevice: Error: [Callstack] 0x00007ffe48a0d4d1 ntdll.dll!UnknownFunction []
+[2021.01.31-18.43.47:618][493]LogOutputDevice: Error: 
