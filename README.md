@@ -29,7 +29,7 @@
     <img src="images/logo.jpg" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center"> Turbo Potatoes (Temp)</h3>
+  <h3 align="center">Just a Nightmare ?</h3>
 
   <p align="center">
     <br />
@@ -73,10 +73,46 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ### Basic Idea
+* Genre: 3D Horror
+* Story: Suddenly, the player finds himself on an abandoned and enclosed terrain. The only visible exit needs a certain 4 digit code.
+  As he walks around on the premises, he might find out that he isn't as alone as he thought to be.
+  And once he mangaes to escape, was it all just a nightmare ?
 
 ### Features
+* Player Character (nothing but a crosshair).
+* Movement Bindings: WASD, arrow-keys + space for jump.
+* Stamina system (Shift-key to run).
+* Flashlight with limited energy. (F-key to activate and R-key to reload).
+* Pick-up Batteries (with E-key), to reload the flashlight.
+* Pick-up Keys and Code-parts (with E-key).
+* Doors With KeyLock, can be opened with a key (with E-key), once unlocked they have an opening animation.
+* Doors with Keypad, they have an interactible keypad. Aim with the crosshair and press E to enter a digit, once unlocked they have an opening animation.
+* For every interactible (items, doors etc.), once in range, a widget shows up indicating what key to press and whether it can be opened or not (for the doors at least).
+* For the Keypad door, there is an extra widget at the bottom left corner, which indicates the already collected code pieces.
+* Red outline for interractible items once looked at.
+* Main-, pause- and death- menu. Each with interractible buttons and the according functionality.
+* Win Screen.
+* Enemies that follow you around once in radius and sight, they follow you around and kill you once they get close enough. They have a kill animation, where they scream at you.
+* 2 types of jump scares: 
+  - Screamer: fullscreen-size picture gets added to the players viewport + scream sound.
+  - MovingObject: once in radius, a humanoid mannequin runs away from the player + weird sound.
+* Random Sounds: 28 different random sounds/music that get played, once the player hits the corresponding collider.
+* Music: 
+  - Background music
+  - Player walk sounds (different sounds depending on the ground type, such as grass, stone and wood).
+* UI: battery-life indicator, battery amount indicator, stamina bar.
+* Big detailed map, with high resolution and lots of space to explore.
+* Fun gameplay.
+
+
 
 ### Controlls
+* Movement: WASD keys, Arrow keys
+* Jump: Spacebar
+* Run: Shift key
+* Pause Menu: ESC key
+* Interracting: E key
+* Flashlight: F key for turning on/off + R key for reload
 
 ### Assets
 
@@ -84,7 +120,7 @@
 
 * [Unreal Engine](https://www.unrealengine.com/)
 * Version: 4.26
-* Template: First Person
+* Template: First Person and Third Person (unused)
 
 <!-- DEV GUIDELINES -->
 ## Development Guidelines
