@@ -115,6 +115,98 @@
 * Flashlight: F key for turning on/off + R key for reload
 
 ### Assets
+#### Unreal Engine Store Assets: 
+- Templates: First Person and Third Person (unused)
+- Open World Demo Collection
+- Military Style Mannequins
+
+#### Models:
+- https://sketchfab.com/3d-models/a-bloody-kitchen-knife-01d6d4906ed749329f37c4929a4846aa
+- https://sketchfab.com/3d-models/abandoned-drugslab-indoor-fd612e2ea8e94d80ac3b8097eb2e5bbe#download
+- https://sketchfab.com/3d-models/alchemy-lab-isometric2020challenge-8002f00110804fd393a5ccb7ade21da5
+- https://sketchfab.com/3d-models/alchemy-stuff-6863824addaa4115aabf4455e9c6573f
+- https://sketchfab.com/3d-models/alchemy-table-free-09e4710c5f7247c39202442a352023a5
+- https://sketchfab.com/3d-models/alchemy-table-game-model-ecc545e35e7c4d5dba91f94b98ba95b5
+- https://sketchfab.com/3d-models/skyrim-alchemy-table-71b2039d24d64cd0a48dbfe94f19c1b0
+- https://sketchfab.com/3d-models/alembic-811618ea79ba4aac95d7f7312a2128ec
+- https://sketchfab.com/3d-models/antique-book-small-4d9627d6370f45a5aa186263858a6a55
+- https://sketchfab.com/3d-models/antique-leather-book-big-f62314240a0140a89e29119829aec000
+- https://sketchfab.com/3d-models/antique-book-with-quill-and-key-6be47f12c73342ef9232e29f71e0fa76
+- https://sketchfab.com/3d-models/asset-graveyard-the-darkest-red-d9e14354303147849d6ef59644436692
+- https://sketchfab.com/3d-models/blood-altar-f810136b88474a6d8a9b3155c1471770
+- https://sketchfab.com/3d-models/bloody-baseball-bat-with-nails-425e6efd8d81408fa63ff2c2962840d1
+- https://sketchfab.com/3d-models/bloody-eyes-mask-f89de732abae4018986e0958cb52c793
+- https://sketchfab.com/3d-models/corpse-f99e4aac71754d599f0a5d10ef791718
+- https://sketchfab.com/3d-models/cart-corpse-the-darkest-red-ac2389d2b9224b9d9310a6dfc978a7cc
+- https://sketchfab.com/3d-models/demon-zombie-monster-pbr-game-ready-d4a333c91cb54fcbb19f54354548efe4
+- https://sketchfab.com/3d-models/doom-hell-knight--2ff3458809da4f3d867a9edfc3ee5f43
+- https://sketchfab.com/3d-models/door-2738468b94d74c5f827e7e5df7be8359
+- https://sketchfab.com/3d-models/flowercorpse-64e2932c26ef4f95ad22cbf497866ea4
+- https://sketchfab.com/3d-models/gate-01-97ca5ddd1e3b4346a6d3659525dc9263
+- https://sketchfab.com/3d-models/godless-goddess-twelve-moons-78e0c259642d4c298b36dbaabf0b31af
+- https://sketchfab.com/3d-models/human-transmutation-circle-fullmetal-alchemist-4ad153e685f64e15a1d0453041b3248a
+- https://sketchfab.com/3d-models/hut-8fb506cdbfb94c80b4e01954f2ec803e 
+- https://sketchfab.com/3d-models/kukri-on-the-bloody-ground-3fbc7efb1b3c4b39a43b6170e6d8ed12
+- https://sketchfab.com/3d-models/low-poly-covered-corpse-44bbd7a61aa347439e42f0f10f7fb1de
+- https://sketchfab.com/3d-models/medieval-bookcase-86d0148ab525424ea3bdea13430d476e
+- https://sketchfab.com/3d-models/mortar-0e9b6e96a047410a80c31adddddb2e11
+- https://sketchfab.com/3d-models/murder-scene-cloth-body-2775896b55c54d21a82e4aa1d485ec15
+- https://sketchfab.com/3d-models/mutant-soldier-72e56e2f79dc413eb409d7b05571dc27
+- https://sketchfab.com/3d-models/mystical-creature-rahu-fh-e3f533e80f124611a6d97ec6af66b318
+- https://sketchfab.com/3d-models/old-bloody-wrench-9cee36d438964e03855d9b59b2343260
+- https://sketchfab.com/3d-models/old-car-post-apocaluptic-2d9974c64d74454e9b3d8107fc715ea9
+- https://sketchfab.com/3d-models/remains-7663ab71893f44b2b6466db3c625b061
+- https://sketchfab.com/3d-models/respected-greatshield-e3080da12b2e42c484fdb1eced6c1260
+- https://sketchfab.com/3d-models/roof-1-bake-5202c58077844c9ea9578e829d3da969
+- https://sketchfab.com/3d-models/room-door-animation-e85909e80635445b92fb80772af80c84
+- https://sketchfab.com/3d-models/shabby-books-94ee482748744253b52b8e3d38fdfab2
+- https://sketchfab.com/3d-models/skull-sculpture-two-ee29eec0ca904c0bb8f346a8183d85c5
+- https://sketchfab.com/3d-models/skull-sculpture-two-ee29eec0ca904c0bb8f346a8183d85c5
+- https://sketchfab.com/3d-models/st-andrews-church-south-huish-84e4d984e29c4c9ca9b2bde12e6032b4
+- https://sketchfab.com/3d-models/transmutation-platform-0119f385ee334603ae491f89a8ca248f
+- https://sketchfab.com/3d-models/warn-wardrobe-b3a99e956be64ab6958f7f5e1895f031
+- https://sketchfab.com/3d-models/window-4e596e7530d749068fa0aba2902b63df
+- https://sketchfab.com/3d-models/zack-the-meat-sack-walk-cycle-5c83999ae6be456aaaeccc628f248d12
+- https://sketchfab.com/3d-models/zombie-the-burnt-263514e15f3c4ef792796399876ca8a8
+
+#### Sounds:
+- https://freesound.org/people/Tissman/sounds/530777/
+- https://www.freesoundeffects.com/free-track/nmh-scream1-466424/
+- https://freesound.org/people/ckvoiceover/sounds/401336/
+- https://freesound.org/people/InspectorJ/sounds/416076/
+- https://freesound.org/people/silversatyr/sounds/113364/
+- https://freesound.org/people/the_yura/sounds/211527/
+- https://freesound.org/people/jacobmathiassen/sounds/254869/
+- https://freesound.org/people/gumballworld/sounds/386923/
+- https://freesound.org/people/Topschool/sounds/404142/
+- https://freesound.org/people/Thegamemakerqueen/sounds/472100/
+- https://freesound.org/people/flex0rnaut/sounds/465911/
+- https://freesound.org/people/InspectorJ/sounds/485009/
+- https://freesound.org/people/InspectorJ/sounds/418262/
+- https://freesound.org/people/mrjingles/sounds/17184/
+- https://freesound.org/people/InspectorJ/sounds/347850/
+- https://freesound.org/people/DRFX/sounds/441286/
+- https://freesound.org/people/InspectorJ/sounds/413549/
+- https://freesound.org/people/InspectorJ/sounds/370937/
+- https://freesound.org/people/InspectorJ/sounds/412224/
+- https://freesound.org/people/InspectorJ/sounds/413315/
+- https://freesound.org/people/engreitz/sounds/79769/
+- https://freesound.org/people/kintana24/sounds/478934/
+- https://freesound.org/people/Kalibrk/sounds/433921/
+- https://freesound.org/people/FunWithSound/sounds/381374/
+- https://freesound.org/people/ryanconway/sounds/239585/
+- https://freesound.org/people/soundguy528/sounds/272350/
+- https://freesound.org/people/sound-master/sounds/57683/
+- https://freesound.org/people/timtube/sounds/61033/
+- https://freesound.org/people/onderwish/sounds/469141/
+- https://freesound.org/people/InspectorJ/sounds/413150/
+- https://freesound.org/people/TheSubber13/sounds/239900/
+- https://freesound.org/people/LloydEvans09/sounds/321832/
+
+#### Pictures:
+- https://i.pinimg.com/originals/0f/55/0c/0f550c8c1af7fa7ef60f7130aac85eb1.jpg
+- https://imed.guru/wp-content/uploads/2019/01/insomnia.jpg
+
 
 ### Built With
 
