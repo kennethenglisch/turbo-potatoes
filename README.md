@@ -171,6 +171,7 @@
 - https://www.mixamo.com/#/?page=1&query=monster&type=Character
 - https://www.mixamo.com/#/?page=3&query=idle&type=Motion%2CMotionPack
 - https://www.mixamo.com/#/?page=1&query=run&type=Motion%2CMotionPack
+- https://drive.google.com/file/d/1Xt84jo8cPFo7RGVG9DWSbfAJeMxn87yW/view
 
 #### Sounds:
 - https://freesound.org/people/Tissman/sounds/530777/
