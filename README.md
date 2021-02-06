@@ -168,6 +168,9 @@
 - https://sketchfab.com/3d-models/window-4e596e7530d749068fa0aba2902b63df
 - https://sketchfab.com/3d-models/zack-the-meat-sack-walk-cycle-5c83999ae6be456aaaeccc628f248d12
 - https://sketchfab.com/3d-models/zombie-the-burnt-263514e15f3c4ef792796399876ca8a8
+- https://www.mixamo.com/#/?page=1&query=monster&type=Character
+- https://www.mixamo.com/#/?page=3&query=idle&type=Motion%2CMotionPack
+- https://www.mixamo.com/#/?page=1&query=run&type=Motion%2CMotionPack
 
 #### Sounds:
 - https://freesound.org/people/Tissman/sounds/530777/
@@ -202,6 +205,7 @@
 - https://freesound.org/people/InspectorJ/sounds/413150/
 - https://freesound.org/people/TheSubber13/sounds/239900/
 - https://freesound.org/people/LloydEvans09/sounds/321832/
+- https://mixkit.co/free-sound-effects/monster/
 
 #### Pictures:
 - https://i.pinimg.com/originals/0f/55/0c/0f550c8c1af7fa7ef60f7130aac85eb1.jpg
