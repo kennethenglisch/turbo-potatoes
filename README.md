@@ -172,6 +172,9 @@
 - https://www.mixamo.com/#/?page=3&query=idle&type=Motion%2CMotionPack
 - https://www.mixamo.com/#/?page=1&query=run&type=Motion%2CMotionPack
 - https://drive.google.com/file/d/1Xt84jo8cPFo7RGVG9DWSbfAJeMxn87yW/view
+- https://sketchfab.com/3d-models/sergery-scene-02ab1cf4a25047e5950a63a6f3c1077d
+- https://www.turbosquid.com/de/3d-models/free-tiffany-key-jewelry-3d-model/595623
+- https://www.turbosquid.com/de/3d-models/nine-volt-battery-fbx-free/935328
 
 #### Sounds:
 - https://freesound.org/people/Tissman/sounds/530777/
@@ -211,7 +214,7 @@
 #### Pictures:
 - https://i.pinimg.com/originals/0f/55/0c/0f550c8c1af7fa7ef60f7130aac85eb1.jpg
 - https://imed.guru/wp-content/uploads/2019/01/insomnia.jpg
-
+- https://i.pinimg.com/564x/23/ae/a6/23aea6bccb038e372a03012de808d9ff.jpg
 
 ### Built With
 
