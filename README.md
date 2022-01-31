@@ -251,22 +251,6 @@ This is a list of things you can look out for while doing code review:
 Always create your own scene if you want to test changes, the MainScene should be in a functioning state at all times.  
 If you do make changes to a Scene you want to share, make sure to save your changes in unity before pushing to git.  
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-
-### Prerequisites
-
-_Add prerequisites if required_
-
-### Installation
-
-_Add installation steps if required_
-
-<!-- USAGE EXAMPLES -->
-## Usage
-[Documentation](https://example.com)
-
 <!-- ROADMAP -->
 ## Roadmap
 
